@@ -1,4 +1,4 @@
-study-roundcubemail
+trial-roundcubemail
 ===================
 
 
